@@ -68,7 +68,7 @@ ul li {
     border-radius: 100px;
     color: #fff;
     
-    
+
 }
 
 
@@ -526,20 +526,30 @@ font-size: 32px;
 }
 @media screen and (max-width: 991px) {
     .job-btn {
-        padding: 12px 13px;
-}
+        /* padding: 12px 13px; */
+        padding: 7px 0px 7px;
+        width: 105px;
+        margin: 0px 0px 0px -23px;
+    }
 
 }
 
 @media screen and (max-width: 991px) {
     .jobs-btn {
-        margin: -2px -6px -6px -35px;
-}
+        /* margin: -2px -6px -6px -35px; */
+        padding: 7px 0px 7px;
+        width: 105px;
+        margin: 0px 0px 0px -58px;
+} 
 
 }
 @media screen and (max-width: 991px) {
     .jobb-btn {
-        margin: -2px -32px -6px -35px;
+        /* margin: -2px -32px -6px -35px; */
+
+        padding: 7px 0px 7px;
+        width: 105px;
+        margin: 0px 0px 0px -78px;
 }
 
 }
